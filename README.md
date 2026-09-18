@@ -89,7 +89,7 @@ Expense-Tracker/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Expense-Tracker.git
+git clone https://github.com/sakshamgupta129/Expense-Tracker.git
 ```
 
 Replace `YOUR-USERNAME` with the GitHub username that owns the repository.
